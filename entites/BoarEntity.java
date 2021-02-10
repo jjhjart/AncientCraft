@@ -8,13 +8,6 @@ import net.minecraft.network.IPacket;
 import net.minecraft.world.World;
 import net.minecraftforge.fml.network.NetworkHooks;
 
-/**
- * A Wild Boar entity.
- * Literally just a pig (with a different texture).
- * TODO: Will have more stuff added to it soon. (Will charge at player
- *
- * @author Cadiboo
- */
 public class BoarEntity extends MonsterEntity {
 
     @SuppressWarnings("unchecked")
